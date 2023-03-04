@@ -21,15 +21,15 @@ h1 {
   text-transform: capitalize;
   margin: 2rem 0;
   color: var(--mainWhite);
-  letter-spacing: 5px;
+  letter-spacing: 6px;
 }
 .App {
   margin: 0 auto;
   max-width: 1280px;
   width: 90%;
   background: var(--mainWhite);
-  padding-bottom: 2rem;
-  border-radius: 2px;
+  padding-bottom: 3rem;
+  border-radius: 3px;
 }
 .form-center {
   display: flex;
